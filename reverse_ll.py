@@ -12,6 +12,7 @@
  return back the head of the reversed linked list in the below method.
 """
 
+
 def Reverse(head):
     current = head
     prev = None
